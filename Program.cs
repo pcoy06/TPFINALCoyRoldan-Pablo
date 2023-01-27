@@ -10,6 +10,7 @@ namespace TPFINALCoyRoldan_Pablo
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
+        /// Punto de entrada.
         /// </summary>
         [STAThread]
         static void Main()

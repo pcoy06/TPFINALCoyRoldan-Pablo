@@ -11,6 +11,7 @@ namespace TPFINALCoyRoldan_Pablo
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// Punto de entrada.
+        /// Punto de entrada 2 y 3.
         /// </summary>
         [STAThread]
         static void Main()
